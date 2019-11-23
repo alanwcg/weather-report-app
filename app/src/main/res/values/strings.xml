@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather Report</string>
+
+    <string name="add_city_activity_label">Add City</string>
+
+    <string name="no_cities">Please Add a City to View its Current Weather</string>
+
+    <string name="no_internet">No internet connection found</string>
+
+    <string name="city_info">City\nInformation</string>
+
+    <string name="city_name_hint">Name</string>
+
+    <string name="city_country_hint">ISO 3166 Country Code (Optional)</string>
+
+    <string name="celsius_symbol">ºC</string>
+    
+    <string name="delete_dialog_msg">Delete this city?</string>
+
+    <string name="refresh">Refresh City</string>
+
+    <string name="remove">Remove City</string>
+
+    <string name="action_save">Save</string>
+
+
+    <string name="action_delete_all_entries">Remove All Cities</string>
+</resources>
